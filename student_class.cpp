@@ -6,7 +6,7 @@
 #include <iomanip> // required for setw (set width) in cout
 
 using namespace std; 
-
+/*******************************/// class defintion and constructors.
 class Student
 {
 	private: // data 
@@ -214,6 +214,7 @@ void sortGPA(Student* recordArray, unsigned int arrSize) {
     
 }
 
+	
 
 int main()
 {
